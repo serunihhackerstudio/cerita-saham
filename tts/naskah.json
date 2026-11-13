@@ -1,0 +1,16 @@
+{
+  "voice": "id-ID-ArdiNeural",
+  "rate": "+6%",
+  "pitch": "-4Hz",
+  "scenes": [
+    {"id": "s1", "text": "Saham Telkom ambles hampir setengah sejak Januari. Kok bisa? Padahal pendapatannya naik... ternyata ada yang lagi sakit."},
+    {"id": "s2", "text": "Oke, kita periksa kayak dokter. Pendapatannya seratus tiga belas koma lima triliun, naik tiga setengah persen. Naiknya pelan, tapi masih naik."},
+    {"id": "s3", "text": "Masalahnya, labanya malah turun. Tahun lalu lima belas koma delapan triliun, sekarang empat belas koma empat. Turun sekitar sembilan persen."},
+    {"id": "s4", "text": "Biang keroknya ada di Telkomsel. Pelanggannya turun empat persen jadi seratus lima puluh satu juta. Di kuartal tiga, laba Telkomsel turun sepuluh persen."},
+    {"id": "s5", "text": "Tapi nggak semua sakit, gaes. Bisnis data dan internet naik delapan persen. Data center malah ngebut, pendapatannya naik tujuh belas persen."},
+    {"id": "s6", "text": "Dan dompetnya tebal. Pertengahan tahun, kasnya lima puluh empat setengah triliun. Utang yang jatuh tempo setahun ke depan cuma sekitar tiga puluh triliun."},
+    {"id": "s7", "text": "Dividen tahun lalu dua ratus dua puluh tiga rupiah per lembar. Di harga dua ribuan, itu sekitar sebelas persen... tapi ingat, dividen nggak dijamin sama tiap tahun."},
+    {"id": "s8", "text": "Jadi diagnosisnya? Telkom bukan sakit parah. Lebih mirip lagi lesu: badannya kuat, dompet tebal, tapi larinya pelan."},
+    {"id": "s9", "text": "Sekarang giliran kamu. Kalau pegang Telkom di harga segini... beli atau jual? Tulis jawabanmu di komentar ya."}
+  ]
+}

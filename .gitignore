@@ -1,0 +1,16 @@
+# dependensi & hasil render
+node_modules/
+out/
+
+# bisa dibuat ulang: npm run tts / npm run sfx (atau tts/rekaman_timing.py + tts/align_edge.py)
+public/audio/
+public/sfx/
+tts/_ref/
+
+# video final disimpan di Google Drive / GitHub Releases
+*.mp4
+
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

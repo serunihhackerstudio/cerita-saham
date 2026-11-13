@@ -1,0 +1,28 @@
+{
+  "name": "serunihstudio-video",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Video pendek 9:16 serunihstudio",
+  "scripts": {
+    "tts": "python tts/generate_tts.py",
+    "sfx": "python tts/make_sfx.py public/sfx",
+    "studio": "remotion studio",
+    "typecheck": "tsc --noEmit",
+    "render": "remotion render Main out/video.mp4 --codec=h264 --crf=18",
+    "thumb": "remotion still Main out/thumbnail.png --frame=100"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.250",
+    "@remotion/google-fonts": "4.0.250",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.250"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.12",
+    "typescript": "5.6.3"
+  },
+  "allowScripts": {
+    "esbuild@0.24.0": true
+  }
+}
